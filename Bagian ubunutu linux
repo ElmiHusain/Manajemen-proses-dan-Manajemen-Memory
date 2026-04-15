@@ -1,0 +1,8 @@
+perintah " free -h " yang digunakan di terminal Linux. Perintah ini digunakan untuk melihat informasi penggunaan memori (RAM) dan swap dalam sistem
+htop # untuk pemantauan sistem yang berjalan
+cat/proc/meminfo # untuk menampilkan informasi detail tentang penggunaan memori
+cat/proc/cpuinfo # untuk menampilkan informasi detail tentang prosesor cpu
+lscpu # untuk menampilkan informasi detail tentang cpu
+swapon --summary # untuk menampilkan informasi tentang swap yang sedang digunakan sistem
+vmstat -s # untuk menampilkan stastistik sistem dalam format yang lebih mudah di baca
+ps aux --sort=%men|head # untuk menampilkan daftar proses yang sedang berjalan di sistem dan mengurututkannya berdasarkan penggunann memori dari kecil ke terbesar
