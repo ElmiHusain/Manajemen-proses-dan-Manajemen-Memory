@@ -6,3 +6,23 @@ lscpu # untuk menampilkan informasi detail tentang cpu
 swapon --summary # untuk menampilkan informasi tentang swap yang sedang digunakan sistem
 vmstat -s # untuk menampilkan stastistik sistem dalam format yang lebih mudah di baca
 ps aux --sort=%men|head # untuk menampilkan daftar proses yang sedang berjalan di sistem dan mengurututkannya berdasarkan penggunann memori dari kecil ke terbesar
+
+Navigasi Terminal Ubuntu
+- ls
+- ls -l
+- ⁠ls -la
+- ⁠cd (pindah folder)
+- ⁠cd .. (keluar folder)
+- ⁠pwd (mengetahui posisi dimana)
+- ⁠mkdir *teknologi* (membuat folder)
+- touch (membuat file)
+- ⁠rm -r *it* (menghapus file)
+- cp (unntuk menggandakan file)
+- ⁠mv *so.txt* *informasi.txt* (rename file)
+- ⁠cat *informasi.txt* (mengetahui isi file)
+
+Langkah langkah restar pada ubuntu terminal
+sudo reboot # untuk restart pada terminal
+
+langkah langkah shutdown pada waktu tertentu menggunakan terminal
+sudo shutdwon -r 19: 08” < ( waktu )
