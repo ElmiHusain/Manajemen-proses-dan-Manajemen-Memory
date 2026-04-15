@@ -1,0 +1,8 @@
+ctrl + E
+Kemudian klik kanan pada “This pc”, Lalu pilih “properties”
+Pada bagian ini akan menampilkan halaman “About” (Tentang) dari System Setting di Windows 
+
+# langkah langkah melihat memory, core dan Thread pada windows
+ctrl + shift + esc
+klk garis tiga di kiri atas, lal pilih performance
+kemudian pilih memory untuk melihat berapa penyimpanan yang di pakai dalam laptop
